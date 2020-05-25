@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/bite-app/static/js/main.855b1025.chunk.js",
+    "main.js.map": "/bite-app/static/js/main.855b1025.chunk.js.map",
+    "runtime-main.js": "/bite-app/static/js/runtime-main.ed15ef99.js",
+    "runtime-main.js.map": "/bite-app/static/js/runtime-main.ed15ef99.js.map",
+    "static/css/2.1174ccc1.chunk.css": "/bite-app/static/css/2.1174ccc1.chunk.css",
+    "static/js/2.d91bb72c.chunk.js": "/bite-app/static/js/2.d91bb72c.chunk.js",
+    "static/js/2.d91bb72c.chunk.js.map": "/bite-app/static/js/2.d91bb72c.chunk.js.map",
+    "index.html": "/bite-app/index.html",
+    "precache-manifest.9f792120dc545f42f72e13ebbea72321.js": "/bite-app/precache-manifest.9f792120dc545f42f72e13ebbea72321.js",
+    "service-worker.js": "/bite-app/service-worker.js",
+    "static/css/2.1174ccc1.chunk.css.map": "/bite-app/static/css/2.1174ccc1.chunk.css.map",
+    "static/js/2.d91bb72c.chunk.js.LICENSE.txt": "/bite-app/static/js/2.d91bb72c.chunk.js.LICENSE.txt",
+    "static/media/check-solid.svg": "/bite-app/static/media/check-solid.ff0fece3.svg",
+    "static/media/logo.png": "/bite-app/static/media/logo.7ed63aa4.png",
+    "static/media/plus-solid.svg": "/bite-app/static/media/plus-solid.b99e8ee2.svg",
+    "static/media/shopping-bag.8a98a244.svg": "/bite-app/static/media/shopping-bag.8a98a244.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed15ef99.js",
+    "static/css/2.1174ccc1.chunk.css",
+    "static/js/2.d91bb72c.chunk.js",
+    "static/js/main.855b1025.chunk.js"
+  ]
+}
