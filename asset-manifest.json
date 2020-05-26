@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/bite-app/static/js/main.aea0ad7e.chunk.js",
-    "main.js.map": "/bite-app/static/js/main.aea0ad7e.chunk.js.map",
+    "main.js": "/bite-app/static/js/main.cc55fd19.chunk.js",
+    "main.js.map": "/bite-app/static/js/main.cc55fd19.chunk.js.map",
     "runtime-main.js": "/bite-app/static/js/runtime-main.ed15ef99.js",
     "runtime-main.js.map": "/bite-app/static/js/runtime-main.ed15ef99.js.map",
     "static/css/2.1174ccc1.chunk.css": "/bite-app/static/css/2.1174ccc1.chunk.css",
     "static/js/2.d91bb72c.chunk.js": "/bite-app/static/js/2.d91bb72c.chunk.js",
     "static/js/2.d91bb72c.chunk.js.map": "/bite-app/static/js/2.d91bb72c.chunk.js.map",
     "index.html": "/bite-app/index.html",
-    "precache-manifest.d737f8064d8ad3633337d0de33eca312.js": "/bite-app/precache-manifest.d737f8064d8ad3633337d0de33eca312.js",
+    "precache-manifest.58e8c136a1855a52891b7157450048ed.js": "/bite-app/precache-manifest.58e8c136a1855a52891b7157450048ed.js",
     "service-worker.js": "/bite-app/service-worker.js",
     "static/css/2.1174ccc1.chunk.css.map": "/bite-app/static/css/2.1174ccc1.chunk.css.map",
     "static/js/2.d91bb72c.chunk.js.LICENSE.txt": "/bite-app/static/js/2.d91bb72c.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.ed15ef99.js",
     "static/css/2.1174ccc1.chunk.css",
     "static/js/2.d91bb72c.chunk.js",
-    "static/js/main.aea0ad7e.chunk.js"
+    "static/js/main.cc55fd19.chunk.js"
   ]
 }
