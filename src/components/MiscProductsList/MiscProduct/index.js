@@ -10,7 +10,7 @@ const MiscProduct = props => {
 
 		return (
 			<S.MiscButton onClick={props.onClick} isMini={props.isMini}>
-			<S.MiscImage src={`/assets/imgs/misc/${props.product.id}.png`}/>
+			<S.MiscImage src={`${process.env.PUBLIC_URL}/assets/imgs/misc/${props.product.id}.png`}/>
 			<S.MiscTitle>
 				<h1>{props.product.name}</h1>
 			</S.MiscTitle>
