@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bite-app/precache-manifest.58e8c136a1855a52891b7157450048ed.js"
+  "/bite-app/precache-manifest.a38a95803ef7736ba438e64b47e9edd8.js"
 );
 
 self.addEventListener('message', (event) => {

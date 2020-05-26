@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1120642bc7ab8ea5ee24e876677af619",
+    "revision": "fc9e9e37f08721ea94f1d3b7067fccab",
     "url": "/bite-app/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bite-app/static/js/2.d91bb72c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3137236a18035c85b4c3",
-    "url": "/bite-app/static/js/main.cc55fd19.chunk.js"
+    "revision": "f75ef830f8e5d5b0627c",
+    "url": "/bite-app/static/js/main.7ee0fc24.chunk.js"
   },
   {
     "revision": "024ccfe65071b6ab69e9",
