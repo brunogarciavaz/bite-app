@@ -1,0 +1,120 @@
+{
+  "fillings": [
+    {
+      "id": 1,
+      "name": "Chicken",
+      "price": 2.5,
+      "category": "Protein",
+	  "nutrients":{ "protein":40, "carbohydrate":0, "fats":10, "kcal": 240 }
+    },
+	{
+      "id": 2,
+      "name": "Pork",
+      "price": 4,
+      "category": "Protein",
+	  "nutrients":{ "protein":35, "carbohydrate":0, "fats":15, "kcal": 300 }
+    },
+	{
+      "id": 3,
+      "name": "Beef",
+      "price": 5,
+      "category": "Protein",
+	  "nutrients":{ "protein":40, "carbohydrate":0, "fats":15, "kcal": 320 }
+    },
+	{
+      "id": 4,
+      "name": "Barbecue",
+      "price": 2,
+      "category": "Sauces",
+	  "nutrients":{ "protein":0, "carbohydrate":10, "fats":5, "kcal": 85 }
+    },
+	{
+      "id": 5,
+      "name": "Cheddar",
+      "price": 2,
+      "category": "Sauces",
+	  "nutrients":{ "protein":0, "carbohydrate":3, "fats":10, "kcal": 100 }
+    },
+	{
+      "id": 6,
+      "name": "Garlic",
+      "price": 2,
+      "category": "Sauces",
+	  "nutrients":{ "protein":0, "carbohydrate":3, "fats":3, "kcal": 36 }
+    },
+	{
+      "id": 7,
+      "name": "Tomatoes",
+      "price": 1,
+      "category": "Vegetables",
+	  "nutrients":{ "protein":0, "carbohydrate":0, "fats":0, "kcal": 0 }
+    },
+	{
+      "id": 8,
+      "name": "Onions",
+      "price": 1,
+      "category": "Vegetables",
+	  "nutrients":{ "protein":0, "carbohydrate":0, "fats":0, "kcal": 0 }
+    },
+	{
+      "id": 9,
+      "name": "Lettuce",
+      "price": 1,
+      "category": "Vegetables",
+	  "nutrients":{ "protein":0, "carbohydrate":0, "fats":0, "kcal": 0 }
+    },
+    {
+      "id": 10,
+      "name": "Fish",
+      "price": 20.5,
+      "category": "Protein",
+	  "nutrients":{ "protein":30, "carbohydrate":0, "fats":0, "kcal": 120 }
+    }
+  ],
+  "miscProducts": [
+	{
+      "id": 1,
+      "name": "Soda",
+      "price": 3,
+	  "nutrients":{ "protein":0, "carbohydrate":10, "fats":0, "kcal": 40 }
+    },
+	{
+      "id": 2,
+      "name": "Salad",
+      "price": 2,
+	  "nutrients":{ "protein":0, "carbohydrate":3, "fats":4, "kcal": 50 }
+    },
+	{
+      "id": 3,
+      "name": "Cookie",
+      "price": 2,
+	  "nutrients":{ "protein":0, "carbohydrate":20, "fats":10, "kcal": 170 }
+    },
+	{
+      "id": 4,
+      "name": "Green Smoothie",
+      "price": 2,
+	  "nutrients":{ "protein":0, "carbohydrate":20, "fats":10, "kcal": 170 }
+    },
+	{
+      "id": 5,
+      "name": "Coffee",
+      "price": 2,
+	  "nutrients":{ "protein":0, "carbohydrate":10, "fats":0, "kcal": 40 }
+    }	
+  ],
+    "mainDishes": [
+	{
+      "id": 1,
+      "name": "sandwich",
+      "price": 5,
+	  "nutrients":{ "protein":3, "carbohydrate":10, "fats":3, "kcal": 100 }
+    },
+	{
+      "id": 2,
+      "name": "wrap",
+      "price": 5,
+	  "nutrients":{ "protein":1, "carbohydrate":3, "fats":1, "kcal": 50 }
+    }
+  ] 
+}
