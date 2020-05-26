@@ -14,7 +14,7 @@ class App extends React.Component {
 		return (
 			<>
 				<GlobalStyle/>
-				<BrowserRouter>
+				<BrowserRouter basename={process.env.PUBLIC_URL}>
 					<Header />
 					<S.MainContainer>
 						<Route path="/" exact component={Home} />
